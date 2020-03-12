@@ -1,9 +1,9 @@
 Printing in the Grad Labs
 =========================
 
-The Grad Labs include Room 300 and the ICT4D Lab.
+The Graduate Labs include Room 300 and the ICT4D Lab (Level 3A.1).
 
-Please be mindful of the amount you print as you will be asked to justify excessive printing.
+.. warning:: Please be mindful of the amount you print as you will be asked to justify excessive printing.
 
 For assistance, please contact the :ref:`sysadmins-label` at help@cs.uct.ac.za.
 
@@ -12,7 +12,7 @@ Notes
 
 To use this printing service you need:
 
-* A CS Windows account
+* A CS Windows account - see :ref:`cs_credentials`
 * Membership of the grads group
 
 Printers
@@ -21,10 +21,11 @@ Printers
 There are two printers available:
 
 .. csv-table::
+   :escape: \
    :header: "Location", "Printer", "Windows Path", "Linux Path"
 
-   "Room 300", "anic", "\\\\\\ps0.cs.uct.ac.za\\anic", "smb://ps0.cs.uct.ac.za/anic"
-   "ICT4D", "charcoal", "\\\\\\ps0.cs.uct.ac.za\\charcoal", "smb://ps0.cs.uct.ac.za/charcoal"
+   "Room 300", "anic", r"\\\\ps0.cs.uct.ac.za\\anic", "smb://ps0.cs.uct.ac.za/anic"
+   "ICT4D", "charcoal", "\\\\ps0.cs.uct.ac.za\\charcoal", "smb://ps0.cs.uct.ac.za/charcoal"
 
 
 Operating System
@@ -118,9 +119,20 @@ Open a Command Prompt window, eg. Window Key + R > then type CMD in the Open dia
 
 In the Command Prompt window, type "start \\ps0.cs.uct.ac.za\<printer name>", eg. start \\ps0.cs.uct.ac.za\anic
 
+.. image:: win_print_step1.png
+
 Type in your Microsoft Windows credentials in the ensuing authentication dialog, eg. cs\<username> and password
 
+
+.. image:: win_print_step2.png
+
 The installation will proceed with the automatic installation of the printer driver and the presentation of the connected printer
+
+XXXX
+
+.. image:: win_print_step3.png
+
+XXXX
 
        win_step1  win_step2  win_step3
 Printing

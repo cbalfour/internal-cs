@@ -11,6 +11,8 @@ These credentials are usually sent to you via email at the beginning of second u
 
 If you do not have CS credentials, please contact the :ref:`sysadmins-label`.
 
+.. _cs_unix_credentials:
+
 Unix Credentials
 ++++++++++++++++
 
@@ -20,6 +22,7 @@ Used to access:
 * :ref:`shell`
 * :ref:`email`
 
+.. _cs_windows_credentials:
 
 Windows Credentials
 +++++++++++++++++++

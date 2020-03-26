@@ -61,21 +61,21 @@ While any email client that supports SMTP and IMAPs can be used, we recommend th
 
 To access email in your mailbox using IMAPs configure your email client with the following settings:
 
-    Server: imap.cs.uct.ac.za
+    Server: ``imap.cs.uct.ac.za``
     Require secure connection using either SSL or TLS. This setting is usually hidden away under Advanced configuration.
-    Authentication using your unix username and password.
+    Authentication using your :ref:`cs_unix_credentials`.
 
-To send email from on-campus you should configure your email client to use the following outgoing SMTP settings. From home you can either use these settings or your internet service providers (ISP) SMTP settings.
+To send email from on-campus you should configure your email client to use the following outgoing SMTP settings. From home you can either use these settings or your internet service providers (ISP) SMTP settings:
 
-    Server: smtp.cs.uct.ac.za
+    Server: ``smtp.cs.uct.ac.za``
     Require secure connection using either SSL or TLS. This setting is usually hidden away under Advanced configuration
     Require authentication
-    Authenticate using your CS unix username and password.
+    Authenticate using your :ref:`cs_unix_credentials`.
 
 Unix Shell
 ----------
 
-It is also currently possible to access your mailbox as a local Maildir folder from the Departmental unix shell server using the following available text-based email clients:
+It is also currently possible to access your mailbox as a local Maildir folder from the Departmental :ref:`shell` using the following available text-based email clients:
 
 *    alpine (similar to the deprecated Pine email client)
 *    mutt
@@ -87,7 +87,7 @@ This method should only be used by people familiar with the unix command-line in
 Other Features
 --------------
 
-    You can automatically forward your email to another email address by creating a .forward file.
+    You can automatically forward your email to another email address by creating a ``.forward`` file.
 
     Out-of-the-office reply. You can set an `out-of-the-office reply`_ - also known as a  vacation message - to notify people when you are away from from the office.
 

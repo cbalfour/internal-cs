@@ -17,7 +17,7 @@ of IT`_ website.
    :caption: Contents:
 
    teaching/index
-   ethics_clearance
+   research/index
    tech/index
 
 Indices and tables

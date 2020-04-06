@@ -14,12 +14,15 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+#import oe_sphinx_theme
+#html_theme = 'oe_sphinx'
+#html_theme_path = [oe_sphinx_theme.get_theme_dir()]
 
 # -- Project information -----------------------------------------------------
 
-project = 'Computer Science Internal'
-copyright = '2020, Craig Balfour'
-author = 'Craig Balfour'
+project = 'Computer Science Internal Information'
+copyright = '2020, Department of Computer Science, University of Cape Town'
+author = 'Department of Computer Science'
 
 
 # -- General configuration ---------------------------------------------------

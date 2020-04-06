@@ -31,4 +31,11 @@ Used to access:
 
 * :ref:`printing`
 * Windows in the Senior and Honours Labs
-  
+
+Change your password
+++++++++++++++++++++
+
+To change and synchronise your CS passwords use https://www.cs.uct.ac.za/portal/login.
+
+If you have forgotten your CS password you can use your UCT password to reset it at https://www.cs.uct.ac.za/portal/forgotpasswd.
+

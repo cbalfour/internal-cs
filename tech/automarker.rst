@@ -1,10 +1,101 @@
 Automatic Marker
 ================
 
-The automatic marker is an extension to the UCT Vula learning management
-system to automatically mark programming assignments. It usually appears 
-as ``Automatic Marker`` in the left sidebar of Vula course sites that 
-use it. 
+The automatic marker - aka automarker - is an extension to the UCT Vula
+learning management system to automatically mark programming assignments. It
+usually appears as ``Automatic Marker`` in the left sidebar of Vula course
+sites that use it. 
 
-This system is managed by the :ref:`scientific_officers` together with the
+It is managed by the :ref:`scientific_officers` together with the
 :ref:`sysadmins-label`.
+
+
+.. warning:: The automatic marker is not currently zero-rated by South African mobile operators. To avoid data charges use Method 2 below.
+
+Preparation
+-----------
+
+Before submitting need to do the following:
+
+#. Write and test your program on your workstation. 
+   
+   * If you are using the NetBeans IDE, be sure to remove the package name it adds from the top of the source file.
+
+#. Put your uncompiled source files into a zip file. Noting the following: 
+
+   * The file name does not matter as long as it as a ``.zip`` extension.
+
+   * The files must be in the root of the zip file, *not* in a folder. 
+
+Once you are ready to submit, select a method below.
+
+Methods
+-------
+
+There are currently 2 methods for submitting your code to the automarker: ``Method 1`` and ``Method 2``. 
+
+* ``Method 1`` is more interactive, but because it submits directly to the automarker (which is not currently zero-rated by mobile operators) will incur data charges.
+
+* ``Method 2`` is less interactive as it uses a batch process, but because it submits to vula (which is zero-rated by most mobile operators) does not incure any data charges. 
+
+**If the cost of data is an issue for you, please use Method 2.**
+
+
+Method 1
+########
+
+This is the standard method for submitting to the automarker via its web interface. 
+
+.. warning:: This method is not zero-rated by mobile operators.
+
+#. Click in the ``Automatic Marker`` item on the left menu.
+
+   * The assignment page - including the list of **Open Assignments** is shown. Each open assignment should have a ``Browse`` and a ``Submit`` button.
+
+#. Click on the ``Browse`` button of the assignment you want to submit and find and select the zip file you want to upload.
+
+#. Click the ``Submit`` button to submit the assignment to the marker.
+
+#. The automarker will mark the assignment providing feedback as it progresses. 
+
+#. Examine the feedback, make the necessary changes to your program and and follow this procedure again to submit an updated solution.
+
+Method 2
+########
+
+.. note::Use this method to avoid data charges.
+
+
+This is a 'batch' method to submit to the automatic marker. While 
+it is less interactive, the same marking process is followed, 
+and the results will be identical.
+
+#. Click on ``Drop Box`` item on the left menu.
+
+   * You should see an ``automark`` folder.
+
+#. Open the ``automark`` folder.
+
+   * You should see a folder for each assignment currently open e.g. ``Assignment 4: Control (if, for, while)``.
+
+#. Open the folder for the assignment you wish to submit. 
+   
+   * The folder will usually be empty, unless there is a previous submission waiting to be processed. 
+   * You can delete this file if you no longer want it to be processed, or keep it to be processed in addition to any new files you add.
+
+#. Copy the zip file into the folder.
+
+   .. note:: It will take a while - up to 30 minutes - for the file to be noticed and processed. Please be patient.
+  
+   * If there are other files there that you still want processed, make sure you give the new file a different name.
+
+#. When the automarker notices the zip file, it will process it in the same way it is processed in method 1.
+    
+#. Once processed, the zip file will be automatically removed and the feedback from automarker will appear in the ``automark`` folder.
+
+#. Examine the feedback file, make the necessary changes to your solution and follow this process again to submit a few solution.
+
+
+ 
+
+

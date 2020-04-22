@@ -28,7 +28,7 @@ Minimum Specification
 
 .. warning:: The following specification is the minimum hardware required to do this course. Lower specification hardware will hinder your ability to undertake the work in this course.
 
-.. note:: While adequate, this specification will make it difficult to perform multiple tasks concurrently, and to run a separate operating system in a virtualization environment. We highly recommend that were possible you purchase a laptop which meets the **recommended** specification.
+.. note:: While adequate, this specification will make it difficult to perform multiple tasks concurrently, and to run a separate operating system in a virtualization environment. We highly recommend that where possible you purchase a laptop which meets the **recommended** specification.
 
 .. csv-table:: 
 

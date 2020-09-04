@@ -3,6 +3,8 @@ Other Services
 
 The following additional services are available for use.
 
+.. _survey:
+
 Survey
 ------
 
@@ -14,6 +16,8 @@ Login with your :ref:`cs_windows_credentials`.
 
 .. note:: Please ensure that you have obtained the necessary ethics clearance before conducting research using human subjects. For more information see :ref:`ethics_clearance`.
 
+.. _wiki:
+
 Wiki
 ----
 
@@ -24,4 +28,16 @@ creating and editing information.
 
 Login with your :ref:`cs_unix_credentials`.
 
+.. _source_code_repository:
+
+Source Code Repository
+----------------------
+
+A repository for all of your CS-related source code is available at `gitlab.cs.uct.ac.za`_. 
+
+.. note:: All undergraduate course assignments  / projects completed for the Department of Computer Science, that require the use of git, must use the CS Gitlab server for this purpose. Furthermore,  these repositories must be private. These repositories may not be shared with other students.
+
+Login with your :ref:`cs_windows_credentials`.
+
 .. _survey.cs.uct.ac.za/limesurvey/admin: https://survey.cs.uct.ac.za/limesurvey/admin
+.. _gitlab.cs.uct.ac.za: https://gitlab.cs.uct.ac.za

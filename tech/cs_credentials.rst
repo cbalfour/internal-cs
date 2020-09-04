@@ -30,6 +30,8 @@ Windows Credentials
 Used to access:
 
 * :ref:`printing`
+* :ref:`source_code_repository`
+* :ref:`survey`
 * Windows in the Senior and Honours Labs
 
 Change your password

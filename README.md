@@ -38,6 +38,7 @@ If it did and you are happy you can continue to deploy as follows:
 9. Push your repository back to github.
 
 10. Send a pull request.
+11. 
 
 I'll receive the pull request, examine it, merge it, and push out the 
 update.

@@ -10,7 +10,7 @@ pipeline {
         }
 	stage("Build") {
             steps {
-                withPythinEnv("/usr/bin/python3") {
+                withPythonEnv("/usr/bin/python3") {
                     sh 'make html'
                 }
             }	

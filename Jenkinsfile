@@ -10,7 +10,9 @@ pipeline {
         }
 	stage("Build") {
             steps {
-                sh 'make html'
+                withPythinEnv("/usr/bin/python3") {
+                    sh 'make html'
+                }
             }	
 	}
         stage("HelloWorld") {

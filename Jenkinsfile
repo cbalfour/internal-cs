@@ -3,14 +3,14 @@ pipeline {
     stages {
         stage("SetupVirtualEnv") {
             steps {
-                withPythonEnv("/usr/bin/python3") {
+                withPythonEnv("/usr/bin/python2.7") {
                     sh 'pip install sphinx'
                 }
             }
         }
 	stage("Build") {
             steps {
-                withPythonEnv("/usr/bin/python3") {
+                withPythonEnv("/usr/bin/python2.7") {
                     sh 'make html'
                 }
             }	

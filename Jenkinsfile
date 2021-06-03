@@ -27,15 +27,15 @@ pipeline {
                     -d ${BUILD_DIR}/doctrees ${SOURCE_DIR} ${BUILD_DIR}
                 '''
             }
+            post {
+                failure {
+                    sh 'cat ${SPHINX_DIR}/sphinx_build.log'
+                }
+            }
         }
         stage("HelloWorld") {
             steps {
                sh "echo 'Hello, World!'"
-            }
-        }
-        post {
-            failure {
-                sh 'cat ${SPHINX_DIR}/sphinx_build.log'
             }
         }
     }

@@ -31,9 +31,5 @@ The Scientific Officers are:
      :width: 200px
      :alt: Stephan Jamieson
 
-* Emmanuel Tuyishimire
-
-   .. image:: http://www.sit.uct.ac.za/sites/default/files/image_tool/images/489/2019/people/emmanuel300.jpg
-     :width: 200px
-     :alt: Emmanuel Tuyishimire
+* Lebeko Poulo
 

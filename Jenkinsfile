@@ -1,23 +1,41 @@
 pipeline {
     agent any
+    environment {
+        SPHINX_DIR  = '.'
+        BUILD_DIR   = './_built'
+        SOURCE_DIR  = '.'
+    }
     stages {
-        stage("SetupVirtualEnv") {
+        stage('InstallDependencies') {
             steps {
-                withPythonEnv("/usr/bin/python2.7") {
-                    sh 'pip install sphinx'
-                }
+                sh '''
+                    virtualenv venv
+                    . venv/bin/activate
+                    #pip install -r ${SPHINX_DIR}/requirements.txt
+                    pip install sphinx
+                '''
             }
         }
-	stage("Build") {
+        stage('Build') {
             steps {
-                withPythonEnv("/usr/bin/python2.7") {
-                    sh 'make html'
-                }
-            }	
-	}
+                sh 'rm -rf ${BUILD_DIR}'
+                sh 'rm -f ${SPHINX_DIR}/sphinx-build.log'
+                sh '''
+                    ${WORKSPACE}/venv/bin/sphinx-build \
+                    -q -w ${SPHINX_DIR}/sphinx-build.log \
+                    -b html \
+                    -d ${BUILD_DIR}/doctrees ${SOURCE_DIR} ${BUILD_DIR}
+                '''
+            }
+        }
         stage("HelloWorld") {
             steps {
                sh "echo 'Hello, World!'"
+            }
+        }
+        post {
+            failure {
+                sh 'cat ${SPHINX_DIR}/sphinx_build.log'
             }
         }
     }

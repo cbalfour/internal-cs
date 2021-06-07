@@ -33,6 +33,13 @@ pipeline {
                 }
             }
         }
+        stage("Archive") {
+            steps {
+                sh 'zip -r internal.zip ${BUILD_DIR}'
+                archiveArtifacts artifacts: 'internal.zip', onlyIfSuccessful: true
+            }
+
+        }
         stage("HelloWorld") {
             steps {
                sh "echo 'Hello, World!'"

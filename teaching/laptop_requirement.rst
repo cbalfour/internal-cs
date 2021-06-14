@@ -4,11 +4,13 @@ Laptop Requirements
 The following courses have a requirement that all students have laptops:
 
 * CSC2
-*  CSC3
-*  Honours
+* CSC3
+* Honours
 
 Specification
 =============
+
+.. warning:: It has come to our attention that the new Apple laptops with M1 CPUs are not currently capable of running some software tools needed by Computer Science courses, particularly at second and third year levels and potentially in postgraduate courses. We do not recommend purchasing these laptops at this point in time.
 
 Recommended Specification
 +++++++++++++++++++++++++

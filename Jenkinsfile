@@ -4,6 +4,7 @@ pipeline {
         SPHINX_DIR  = '.'
         BUILD_DIR   = './_built'
         SOURCE_DIR  = '.'
+        DEPLOY_HOST = 'internal@web0.cs.uct.ac.za:'
     }
     stages {
         stage('InstallDependencies') {
@@ -39,6 +40,18 @@ pipeline {
                 archiveArtifacts artifacts: 'internal.zip', onlyIfSuccessful: true
             }
 
+        }
+        stage("Deploy") {
+            steps {
+                sshagent(credentials: ['deploy-internal']) {
+                    sh '''#!/bin/bash
+                        RSYNCOPT=(-aze 'ssh -o StrictHostKeyChecking=no')
+                        rsync "${RSYNCOPT[@]}" \
+                        --log-file=${SPHINX_DIR}/rsync.log \
+                        internal.zip ${DEPLOY_HOST}
+                    '''
+                }
+            }
         }
         stage("HelloWorld") {
             steps {

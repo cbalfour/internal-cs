@@ -4,7 +4,7 @@ pipeline {
         SPHINX_DIR  = '.'
         BUILD_DIR   = './_built'
         SOURCE_DIR  = '.'
-        DEPLOY_HOST = 'internal@web0.cs.uct.ac.za:'
+        DEPLOY_HOST = 'internal@web0.cs.uct.ac.za:_built'
     }
     stages {
         stage('InstallDependencies') {

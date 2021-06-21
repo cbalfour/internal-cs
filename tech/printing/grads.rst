@@ -4,7 +4,7 @@ Printing in the Grad Labs
 The Graduate Labs include Room 300 and the ICT4D Lab (Room 3A.1).
 
 .. warning:: Please be mindful of the amount you print as you will be
-asked to justify excessive printing.
+    asked to justify excessive printing.
 
 For assistance, please contact the :ref:`sysadmins-label` at
 help@cs.uct.ac.za.

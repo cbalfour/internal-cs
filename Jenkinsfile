@@ -38,7 +38,7 @@ pipeline {
             steps {
                 sh '''
                 cd ${BUILD_DIR}
-                zip -r internal.zip .
+                zip -r ../internal.zip .
                 '''
                 archiveArtifacts artifacts: 'internal.zip', onlyIfSuccessful: true
             }

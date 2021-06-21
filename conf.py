@@ -21,7 +21,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Computer Science Internal Information'
-copyright = '2020, Department of Computer Science, University of Cape Town'
+copyright = '2021, Department of Computer Science, University of Cape Town'
 author = 'Department of Computer Science'
 
 

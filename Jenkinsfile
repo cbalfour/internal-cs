@@ -36,7 +36,10 @@ pipeline {
         }
         stage("Archive") {
             steps {
-                sh 'zip -r internal.zip ${BUILD_DIR}'
+                sh '''
+                cd ${BUILD_DIR}
+                zip -r internal.zip .
+                '''
                 archiveArtifacts artifacts: 'internal.zip', onlyIfSuccessful: true
             }
 

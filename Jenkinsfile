@@ -4,7 +4,9 @@ pipeline {
         SPHINX_DIR  = '.'
         BUILD_DIR   = './_built'
         SOURCE_DIR  = '.'
-        DEPLOY_HOST = 'internal@web0.cs.uct.ac.za:_built'
+        DEPLOY_USER = 'internal'
+        DEPLOY_HOST = 'web0.cs.uct.ac.za'
+        DEPLOY_PATH = '_built'
     }
     stages {
         stage('InstallDependencies') {
@@ -51,7 +53,12 @@ pipeline {
                         RSYNCOPT=(-aze 'ssh -o StrictHostKeyChecking=no')
                         rsync "${RSYNCOPT[@]}" \
                         --log-file=${SPHINX_DIR}/rsync.log \
-                        internal.zip ${DEPLOY_HOST}
+                        internal.zip ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+                    '''
+                    sh '''#!/bin/bash 
+                        ssh -o StrictHostKeyChecking=no \
+                        ${DEPLOY_USER}@${DEPLOY_HOST} unzip -o \
+                        _built/internal.zip -d ${DEPLOY_PATH}
                     '''
                 }
             }

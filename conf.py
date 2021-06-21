@@ -56,6 +56,7 @@ html_static_path = ['_static']
 
 html_theme_options = {
     'logo': 'cslogo.png',
+    'description': 'Computer Science Documentation',
     'fixed_sidebar': 'True',
     'show_powered_by': 'False'
 }

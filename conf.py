@@ -55,6 +55,8 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 html_theme_options = {
+    'logo': 'cslogo.png',
+    'fixed_sidebar': 'True',
     'show_powered_by': 'False'
 }
 

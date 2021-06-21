@@ -55,15 +55,15 @@ pipeline {
                     '''
                 }
             }
+            post {
+                always {
+                    deleteDir() /* clean up out workspace */
+                }
+            }
         }
         stage("HelloWorld") {
             steps {
                sh "echo 'Hello, World!'"
-            }
-        }
-        post {
-            always {
-                deleteDir() /* clean up out workspace */
             }
         }
     }

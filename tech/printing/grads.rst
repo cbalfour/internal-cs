@@ -56,7 +56,7 @@ Instructions
 These instructions have been written for Ubuntu.
 
 #) Log into the graphical user interface (GUI)  as a user with sudo
-privileges.
+    privileges.
 
 #) Open the Settings app. Select Printers > Add...
 

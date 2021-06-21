@@ -61,16 +61,16 @@ These instructions have been written for Ubuntu.
 #) Open the Settings app. Select Printers > Add...
 
 #) Click "Add" to add a new printer. The "New Printer" dialog should
-appear.
+    appear.
 
 #) In the Enter URI field, enter the Linux URL from the table above.
    
 #) Click the Verify button to test this configuration. If you entered
-the above information correctly, you should see a Print Share Verified
-dialog box. Click the OK button to continue.
+    the above information correctly, you should see a Print Share Verified
+    dialog box. Click the OK button to continue.
 
 #) Click the "Forward" button to continue to the next step of the the
-printer configuration.
+    printer configuration.
 
    A "Searching for drivers" dialog should appear. Please wait while the
    system collects information about available print servers on your
@@ -78,19 +78,19 @@ printer configuration.
    disappear.
 
 #) The "Choose Driver" dialog should appear. Click "Select printer from
-database" and select "HP" from the list of printer Makes provides. Click
-the "Forward" button to continue with the next stage of the printer
-configuration.
+    database" and select "HP" from the list of printer Makes provides. Click
+    the "Forward" button to continue with the next stage of the printer
+    configuration.
 
 #) A list of printer Models will be displayed. Search for and select
-"LaserJet P3005" from the list on the left. Make sure that "HP LaserJet
-P3005 Postscript [en] (recommended)" is selected from the list of
-drivers on the right when this option is selected. Click the "Forward"
-button to continue with the printer configuration.
+    "LaserJet P3005" from the list on the left. Make sure that "HP LaserJet
+    P3005 Postscript [en] (recommended)" is selected from the list of
+    drivers on the right when this option is selected. Click the "Forward"
+    button to continue with the printer configuration.
 
 #) The "Installable Options" dialog will appear. Make sure that you set
-the available options as follows to ensure that you are able to make use
-of the features of this printer::
+    the available options as follows to ensure that you are able to make use
+    of the features of this printer::
 
     Change "Tray 3" from "Not Installed" to "Installed"
     Leave "Collation in Printer" as "No: Total RAM < 80MB and No Hard Disk"
@@ -101,7 +101,7 @@ of the features of this printer::
 #) Click the "Forward "button to continue with the configuration.
 
 #) The "Describe Printer" dialog will appear. Fill in the field provided
-as below::
+    as below::
 
     Change "Printer Name" to "anic-via-ps0"
     Change "Description" to "HP LaserJet p3005x"
@@ -147,7 +147,7 @@ Please email the :ref:`sysadmins-label` at help@cs.uct.ac.za if
 assistance is required.
 
 .. note:: You will need administrative privileges on the workstation to
-be able to install and configure the printer.
+    be able to install and configure the printer.
 
 Instructions
 ::::::::::::
@@ -179,7 +179,7 @@ Printing
 #) Select the printer from the drop-down list, eg. anic
 
 #) Print jobs will be submitted with the preset printer defaults, viz.
-duplex (double sided), economy (saves on toner)
+    duplex (double sided), economy (saves on toner)
 
 MacOS
 +++++

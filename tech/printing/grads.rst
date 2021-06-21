@@ -48,7 +48,7 @@ figure out where to enter the configuration options in the instructions
 below.
 
 .. note:: You will need sudo / root privileges on the workstation to be
-able to install and configure the printer.
+    able to install and configure the printer.
 
 Instructions
 ::::::::::::

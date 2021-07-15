@@ -8,4 +8,4 @@ our Honours class starting from 2003.
 For more information visit the `Honours Project Archive`_.
 
 
-. _`Honours Project Archive`: https://projects.cs.uct.ac.za/honsproj
+.. _`Honours Project Archive`: https://projects.cs.uct.ac.za/honsproj

@@ -15,28 +15,28 @@ ICT4D
 2009
 ****
 * `Newsletter 1 </artifacts/2009/newsletter-2009.pdf>`_ 
-* `Annual review </artifacts/2009/AnnualReview-UCTCS-2009.pdf>`_ 
+* `Annual review /artifacts/2009/AnnualReview-UCTCS-2009.pdf`_  
 
 2008
 ****
-* `Annual Review 2007-2008 </artifacts/2008/Dept-report-2008.pdf>`_
+* `Annual Review 2007-2008 /artifacts/2008/Dept-report-2008.pdf`_
 
 2005
 ****
 * `Newsletter 1 </artifacts/2005/newsletter1-lite_2005.pdf>`_ 
-* `Annual Review 2005 </artifacts/2005/annual_review_2005/>`_
+* `Annual Review 2005 /artifacts/2005/annual_review_2005/`_
 
 2004
 ****
-* `Annual Review 2004 </artifacts/2004/annual_review_2004/>`_
+* `Annual Review 2004 /artifacts/2004/annual_review_2004/`_
 
 2003
 ****
-* `Annual Review 2003 </artifacts/2003/review2003.pdf>`_
+* `Annual Review 2003 /artifacts/2003/review2003.pdf`_
 
 2002
 ****
-  * `Annual Review 2002 </artifacts/2002/2002.pdf>`_
+  * `Annual Review 2002 /artifacts/2002/2002.pdf`_
 
 
 .. toctree::

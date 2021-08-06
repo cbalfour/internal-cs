@@ -58,7 +58,7 @@ Staff Alumni
           :width: 400
      -
      - Lecturer
-       [-2015]
+     - [-2015]
    * - Audrey Mbogho 
      - .. image:: https://internal.cs.uct.ac.za/artifacts/staff/alumni/audrey.jpg
           :width: 400

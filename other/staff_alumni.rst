@@ -14,7 +14,7 @@ Staff Alumni
      - Senior Scientific Officer
      - January 2019 - August 2020
    * - Salegga Valley
-     - 
+     - .. image:: https://www.cs.uct.ac.za/images/salegga.png 
      - Administrative Officer
      - (-2018)
    * - Omowunmi Isafiade

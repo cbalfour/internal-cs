@@ -11,3 +11,4 @@ Other Information
    :caption: Contents:
 
    advisory_board
+   media

@@ -89,7 +89,7 @@ Staff Alumni
      -
      - Systems Administrator (Windows) 
      - [2007-2012]
-   * - Nandipha Makatesi
+   * - Nandipa Makatesi
      - 
      -
      - Senior Secretary

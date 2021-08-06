@@ -11,4 +11,5 @@ Other Information
    :caption: Contents:
 
    advisory_board
+   staff_alumni
    media

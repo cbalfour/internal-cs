@@ -89,6 +89,11 @@ Staff Alumni
      -
      - Systems Administrator (Windows) 
      - [2007-2012]
+   * - Nandipha Makatesi
+     - 
+     -
+     - Senior Secretary
+     - [2011-2012]
    * - Jane Wright
      - .. image:: https://internal.cs.uct.ac.za/artifacts/staff/alumni/jane.jpg
           :width: 400

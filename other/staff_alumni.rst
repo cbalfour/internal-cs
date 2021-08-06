@@ -15,82 +15,88 @@ Staff Alumni
      -
      - Senior Scientific Officer
      - January 2019 - August 2020
+   * - Ken MacGregor
+     - .. image:: /artifacts/staff/alumni/ken.jpg
+          :width: 400
+     -
+     - Emeritus Professor
+     - [-2020]
    * - Salegga Valley
-     - .. image:: https://www.cs.uct.ac.za/images/salegga.png 
+     - .. image:: /artifacts/staff/alumni/salegga.png 
           :width: 400
           :alt: Salegga Valley
      -
      - Administrative Officer
      - (-2018)
    * - Omowunmi Isafiade
-     - .. image:: https://www.cs.uct.ac.za/images/Wunmi_photo.jpg
+     - .. image:: /artifacts/staff/alumni/Wunmi_photo.jpg
           :width: 400
      -
      - Senior Teaching Assistant
      - (2015-2017)
    * - Eve Gill
-     - .. image:: https://www.cs.uct.ac.za/images/eve.jpg
+     - .. image:: /artifacts/staff/alumni/eve.jpg
           :width: 400
      -
      - Research Administrator
      - (-2017)
    * - Anne Kayem
-     - .. image:: https://www.cs.uct.ac.za/images/copy_of_akayem.png
+     - .. image:: /artifacts/staff/alumni/copy_of_akayem.png
           :width: 400
      - [PhD Queens University]
      - Senior Lecturer 
      - (2010-2016)
 
    * - Judith Bishop
-     - .. image:: https://www.cs.uct.ac.za/images/judith.png
+     - .. image:: /artifacts/staff/alumni/judith.png
           :width: 400
      - 
      - Honorary Professor
      - 2011-2015
    * - Audrey Mbogho 
-     - .. image:: https://www.cs.uct.ac.za/images/audrey.jpg
+     - .. image:: /artifacts/staff/alumni/audrey.jpg
           :width: 400
      - [PhD CUNY]
      - Senior Lecturer
      - 2006-2014
    * - Gary Marsden 
-     - .. image:: https://www.cs.uct.ac.za/images/gaz.jpg
+     - .. image:: /artifacts/staff/alumni/gaz.jpg
           :width: 400
      - [BSc (Hons) MSc PhD Stirling]
      -  Professor 
      -  [-2013]
    * - Antoine Bagula
-     - .. image:: https://www.cs.uct.ac.za/images/antoine.jpg
+     - .. image:: /artifacts/staff/alumni/antoine.jpg
           :width: 400
      - [MEng Louvain MSc Stellenbosch PhD KTH]
      - Senior Lecturer
      - [-2013]
    * - Hanh Le
-     - .. image:: https://www.cs.uct.ac.za/images/hanh.jpg
+     - .. image:: /artifacts/staff/alumni/hanh.jpg
           :width: 400
      - [PhD UTS]
      - Senior Lecturer, 3rd year course convenor 
      - [-2013]
    * - Ademola Freddy Adekayode
-     - .. image:: https://www.cs.uct.ac.za/images/freddy.jpg
+     - .. image:: /artifacts/staff/alumni/freddy.jpg
           :width: 400
      -
      - Systems Administrator (Windows) 
      - [2007-2012]
    * - Jane Wright
-     - .. image:: https://www.cs.uct.ac.za/images/jane.jpg
+     - .. image:: /artifacts/staff/alumni/jane.jpg
           :width: 400
      -
      - Senior Secretary
      -
    * - Anet Potgieter 
-     - .. image:: https://www.cs.uct.ac.za/images/anet.jpg
+     - .. image:: /artifacts/staff/alumni/anet.jpg
           :width: 400
      - [MSc PhD Pretoria]
      - Senior Lecturer 
      - [July 2002 - February 2009]
    * - Donald Cook 
-     - .. image:: https://www.cs.uct.ac.za/images/donald.jpg
+     - .. image:: /artifacts/staff/alumni/donald.jpg
           :width: 400
      - [BSc (Hons) UCT]
      - Lecturer 
@@ -101,13 +107,13 @@ Staff Alumni
      - Systems Administrator 
      - [2006 - 2007]
    * - Matthew West
-     - .. image:: https://www.cs.uct.ac.za/images/matthew.jpg
+     - .. image:: /artifacts/staff/alumni/matthew.jpg
           :width: 400
      -
      - Systems Administrator
      - [July 1998 - June 2007]
    * - Mike Linck
-     - .. image:: https://www.cs.uct.ac.za/images/mike.jpg
+     - .. image:: /artifacts/staff/alumni/mike.jpg
           :width: 400
      - [MSc PhD UCT]
      - Senior Lecturer 

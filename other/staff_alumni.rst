@@ -23,78 +23,92 @@ Staff Alumni
      - Administrative Officer
      - (-2018)
    * - Omowunmi Isafiade
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/Wunmi_photo.jpg
+          :width: 400
      -
      - Senior Teaching Assistant
      - (2015-2017)
    * - Eve Gill
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/eve.jpg
+          :width: 400
      -
      - Research Administrator
      - (-2017)
    * - Anne Kayem
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/copy_of_akayem.png
+          :width: 400
      - [PhD Queens University]
      - Senior Lecturer 
      - (2010-2016)
 
    * - Judith Bishop
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/judith.png
+          :width: 400
      - 
      - Honorary Professor
      - 2011-2015
    * - Audrey Mbogho 
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/audrey.jpg
+          :width: 400
      - [PhD CUNY]
      - Senior Lecturer
      - 2006-2014
    * - Gary Marsden 
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/gaz.jpg
+          :width: 400
      - [BSc (Hons) MSc PhD Stirling]
      -  Professor 
      -  [-2013]
    * - Antoine Bagula
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/antoine.jpg
+          :width: 400
      - [MEng Louvain MSc Stellenbosch PhD KTH]
      - Senior Lecturer
      - [-2013]
    * - Hanh Le
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/hanh.jpg
+          :width: 400
      - [PhD UTS]
      - Senior Lecturer, 3rd year course convenor 
      - [-2013]
    * - Ademola Freddy Adekayode
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/freddy.jpg
+          :width: 400
      -
      - Systems Administrator (Windows) 
      - [2007-2012]
    * - Jane Wright
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/jane.jpg
+          :width: 400
      -
      - Senior Secretary
      -
    * - Anet Potgieter 
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/anet.jpg
+          :width: 400
      - [MSc PhD Pretoria]
      - Senior Lecturer 
      - [July 2002 - February 2009]
    * - Donald Cook 
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/donald.jpg
+          :width: 400
      - [BSc (Hons) UCT]
      - Lecturer 
      - [1982 - 2007]
    * - Arno Breedt
-     -
+     - 
      -
      - Systems Administrator 
      - [2006 - 2007]
    * - Matthew West
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/matthew.jpg
+          :width: 400
      -
      - Systems Administrator
      - [July 1998 - June 2007]
    * - Mike Linck
-     -
+     - .. image:: https://www.cs.uct.ac.za/images/mike.jpg
+          :width: 400
      - [MSc PhD UCT]
      - Senior Lecturer 
      - [- 2007]

@@ -3,32 +3,40 @@ Archives
 
 .. note:: This information is out-of-date and maintained for historical / archival purposes.
 
-Requirements
-++++++++++++
+ICT4D
+*****
+* `Brochure </artifacts/ict4d/fd.pdf>`_
 
-* `2010 Requirements poster </artifacts/flier-poster-2010.pdf>`_
+2010
+****
+* `Requirements poster </artifacts/2010/flier-poster-2010.pdf>`_
+* `Games Course brochure </artifacts/2010/gamesFlyer%20-%202010.pdf>`_
 
-Brochures
-+++++++++
+2009
+****
+* `Newsletter 1 </artifacts/2009/newsletter-2009.pdf>`_ 
+* `Annual review </artifacts/2009/AnnualReview-UCTCS-2009.pdf>`_ 
 
-* `2010 Games Course </artifacts/gamesFlyer%20-%202010.pdf>`_
-* `Centre for ICT4D </artifacts/fd.pdf>`_
+2008
+****
+* `Annual Review 2007-2008 </artifacts/2008/Dept-report-2008.pdf>`_
 
-Newletters
-++++++++++
+2005
+****
+* `Newsletter 1 </artifacts/2005/newsletter1-lite_2005.pdf>`_ 
+* `Annual Review 2005 </artifacts/2005/annual_review_2005/>`_
 
-* `1-2009 </newsletter-2009.pdf>`_
-* `1-2005 </newsletter1-lite_2005.pdf>`_
+2004
+****
+* `Annual Review 2004 </artifacts/2004/annual_review_2004/>`_
 
-Annual Departmental Reviews
-+++++++++++++++++++++++++++
+2003
+****
+* `Annual Review 2003 </artifacts/2003/review2003.pdf>`_
 
-* `2009 <https://www.cs.uct.ac.za/about-us/annual-reviews/AnnualReview-UCTCS-2009.pdf>`_
-* `2007-2008 <https://www.cs.uct.ac.za/about-us/annual-reviews/Dept-report-2008.pdf>`_
-* `2005 <https://www.cs.uct.ac.za/annual_review_2005/>`_
-* `2004 <https://www.cs.uct.ac.za/annual_review_2004/>`_
-* `2003 <https://www.cs.uct.ac.za/about-us/annual-reviews/review2003.pdf>`_
-* `2002 <https://www.cs.uct.ac.za/about-us/annual-reviews/2002.pdf>`_
+2002
+****
+  * `Annual Review 2002 </artifacts/2002/2002.pdf>`_
 
 
 .. toctree::

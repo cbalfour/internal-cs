@@ -1,13 +1,42 @@
 Staff Alumni
 ============
 
-* Salegga Valley, Administrative Officer (-2018)
-* Omowunmi Isafiade, Senior Teaching Assistant (2015-2017)
-* Eve Gill, Research Administrator (-2017)
-* Anne Kayem [PhD Queens University], Senior Lecturer (2010-2016)
-* Judith Bishop, Honorary Professor, 2011-2015
-* Audrey Mbogho [PhD CUNY], Senior Lecturer, 2006-2014
-* Gary Marsden [BSc (Hons) MSc PhD Stirling], Professor [-2013]
+.. list-table:: Staff Alumni
+   :header-row: 1
+   * - Name
+     - Qualification
+     - Job
+     - Time in the department
+   * - Salegga Valley
+     - 
+     - Administrative Officer
+     - (-2018)
+   * - Omowunmi Isafiade
+     -
+     - Senior Teaching Assistant
+     - (2015-2017)
+   * - Eve Gill
+     -
+     - Research Administrator
+     - (-2017)
+   * - Anne Kayem
+     - [PhD Queens University]
+     - Senior Lecturer 
+     - (2010-2016)
+
+   * - Judith Bishop
+     - 
+     - Honorary Professor
+     - 2011-2015
+   * - Audrey Mbogho 
+     - [PhD CUNY]
+     - Senior Lecturer
+     - 2006-2014
+   * - Gary Marsden 
+     - [BSc (Hons) MSc PhD Stirling]
+     -  Professor 
+     -  [-2013]
+
 * Antoine Bagula [MEng Louvain MSc Stellenbosch PhD KTH], Senior Lecturer [-2013]
 * Hanh Le [PhD UTS], Senior Lecturer, 3rd year course convenor [-2013]
 * Ademola Freddy Adekayode, Systems Administrator (Windows) [2007-2012]

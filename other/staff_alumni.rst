@@ -139,10 +139,10 @@ Staff Alumni
      -
      - Departmental Administrator
      - [-2004]
-   * - Sandi Donno
+   * - Sandra Donno
      -
      -
      - Systems Administrator
-     -
+     - 1991-1998
 
 

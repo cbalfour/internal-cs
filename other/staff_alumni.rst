@@ -9,6 +9,10 @@ Staff Alumni
      - Qualification
      - Job
      - Time in the department
+   * - Emmanuel Tuyishimire
+     -
+     - Senior Scientific Officer
+     - January 2019 - August 2020
    * - Salegga Valley
      - 
      - Administrative Officer
@@ -50,13 +54,41 @@ Staff Alumni
      -
      - Systems Administrator (Windows) 
      - [2007-2012]
+   * - Jane Wright
+     -
+     - Senior Secretary
+     -
+   * - Anet Potgieter 
+     - [MSc PhD Pretoria]
+     - Senior Lecturer 
+     - [July 2002 - February 2009]
+   * - Donald Cook 
+     - [BSc (Hons) UCT]
+     - Lecturer 
+     - [1982 - 2007]
+   * - Arno Breedt
+     -
+     - Systems Administrator 
+     - [2006 - 2007]
+   * - Matthew West
+     -
+     - Systems Administrator
+     - [July 1998 - June 2007]
+   * - Mike Linck
+     - [MSc PhD UCT]
+     - Senior Lecturer 
+     - [- 2007]
+   * - Sam Chetty
+     -
+     - Systems Administrator
+     - [1997 - 2007]
+   * - Mary Wood
+     -
+     - Departmental Administrator
+     - [-2004]
+   * - Sandi Donno
+     -
+     - Systems Administrator
+     -
 
-* Jane Wright, Senior Secretary
-* Anet Potgieter [MSc PhD Pretoria], Senior Lecturer [July 2002 - February 2009]
-* Donald Cook [BSc (Hons) UCT], Lecturer [1982 - 2007]
-* Arno Breedt, Systems Administrator [2006 - 2007]
-* Matthew West, Systems Administrator, [July 1998 - June 2007]
-* Mike Linck [MSc PhD UCT], Senior Lecturer [- 2007]
-* Sam Chetty, Systems Administrator [1997 - 2007]
-* Mary Wood, Departmental Administrator [-2004]
-* Sandi Donno, Systems Administrator
+

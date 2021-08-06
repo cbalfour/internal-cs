@@ -6,19 +6,19 @@ Archives
 Requirements
 ++++++++++++
 
-* `2010 Requirements poster <https://www.cs.uct.ac.za/about-us/newsletters/flier-poster-2010.pdf>`_
+* `2010 Requirements poster </artifacts/flier-poster-2010.pdf>`_
 
 Brochures
 +++++++++
 
-* `2010 Games Course <https://www.cs.uct.ac.za/about-us/gamesFlyer%20-%202010.pdf>`_
-* `Centre for ICT4D <https://www.cs.uct.ac.za/about-us/newsletters/fd.pdf>`_
+* `2010 Games Course </artifacts/gamesFlyer%20-%202010.pdf>`_
+* `Centre for ICT4D </artifacts/fd.pdf>`_
 
 Newletters
 ++++++++++
 
-* `1-2009 <https://www.cs.uct.ac.za/about-us/newsletters/newsletter-2009.pdf>`_
-* `1-2005 <https://www.cs.uct.ac.za/about-us/newsletters/newsletter1-lite_2005.pdf>`_
+* `1-2009 </newsletter-2009.pdf>`_
+* `1-2005 </newsletter1-lite_2005.pdf>`_
 
 Annual Departmental Reviews
 +++++++++++++++++++++++++++

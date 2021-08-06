@@ -21,6 +21,7 @@ For other information please consult the `School of IT website`_.
    research/index
    tech/index
    other/index
+   archives/index
 
 Indices and tables
 ==================

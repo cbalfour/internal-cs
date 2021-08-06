@@ -2,7 +2,8 @@ Staff Alumni
 ============
 
 .. list-table:: Staff Alumni
-   :header-row: 1
+   :widths: 20 20 20 20 20
+   :header-rows: 1
    * - Name
      - Qualification
      - Job
@@ -36,10 +37,19 @@ Staff Alumni
      - [BSc (Hons) MSc PhD Stirling]
      -  Professor 
      -  [-2013]
+   * - Antoine Bagula
+     - [MEng Louvain MSc Stellenbosch PhD KTH]
+     - Senior Lecturer
+     - [-2013]
+   * - Hanh Le
+     - [PhD UTS]
+     - Senior Lecturer, 3rd year course convenor 
+     - [-2013]
+   * - Ademola Freddy Adekayode
+     -
+     - Systems Administrator (Windows) 
+     - [2007-2012]
 
-* Antoine Bagula [MEng Louvain MSc Stellenbosch PhD KTH], Senior Lecturer [-2013]
-* Hanh Le [PhD UTS], Senior Lecturer, 3rd year course convenor [-2013]
-* Ademola Freddy Adekayode, Systems Administrator (Windows) [2007-2012]
 * Jane Wright, Senior Secretary
 * Anet Potgieter [MSc PhD Pretoria], Senior Lecturer [July 2002 - February 2009]
 * Donald Cook [BSc (Hons) UCT], Lecturer [1982 - 2007]

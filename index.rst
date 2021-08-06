@@ -20,6 +20,7 @@ For other information please consult the `School of IT website`_.
    teaching/index
    research/index
    tech/index
+   other/index
 
 Indices and tables
 ==================

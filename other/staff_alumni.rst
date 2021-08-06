@@ -20,7 +20,7 @@ Staff Alumni
           :width: 400
      -
      - Emeritus Professor
-     - [-2020]
+     - [1974-2020]
    * - Salegga Valley
      - .. image:: https://internal.cs.uct.ac.za/artifacts/staff/alumni/salegga.png 
           :width: 400

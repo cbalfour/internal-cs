@@ -53,7 +53,7 @@ This software is available to all University of Cape Town staff and
 students.
 
 .. note:: To obtain a license register with your UCT email address 
-at `https://www.jetbrains.com/student/ <https://www.jetbrains.com/student>`.
+    at `https://www.jetbrains.com/student/ <https://www.jetbrains.com/student>`.
 
 Free and Open-Source Software
 #############################

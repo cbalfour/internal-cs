@@ -4,25 +4,28 @@ Software
 ========
 
 The Department primarily makes use of free and open-source software but
-also has a licenses for a number of other proprietary packages.
+also has licenses for a few proprietary packages.
 
 Proprietary Software
 ####################
 
 The Department has negotiated licences to commercially available
-software for free use in strictly educational and research purposes
-only. Please email help@cs.uct.ac.za for licence keys.
+software. Unless otherwise indicated, this software license may 
+only be used for educational purposes.
+
+For more information please contact help@cs.uct.ac.za.
 
 Azure Dev Tools for Teaching
 ----------------------------
 
-Previously known by various other names including Microsoft Developer
-Academic Alliance and Dreamspark.
+This program was previously known by various other names including
+Microsoft Developer Academic Alliance and Dreamspark.
 
-The Department maintains a subscription to the Microsoft Developer
-Network Academic Alliance / DreamSpark program which provides Computer
-Science staff and students with access to a large portfolio of Microsoft
-software (Microsoft Office not included).
+This program provides Computer Science staff and students with 
+access to a large portfolio of Microsoft software intended for the study
+of software development and testing. It includes Platform SDK, SQL
+Server, Visual Studio .NET and Windows amongst others. It does not
+include access to Microsoft Office.
 
 For more information about what software is please contact the
 :ref:`sysadmins-label` at help@cs.uct.ac.za.
@@ -63,6 +66,9 @@ campus through the `UCT Linux Enthusiasts Group (LEG)`_.
 
 This includes various linux distributions, software such as Mozilla
 Firefox and OpenOffice.org.
+
+The software is available on the LEG software mirror at `ftp.leg.uct.ac.za
+<http://ftp.leg.uct.ac.za>`_.
 
  .. _`UCT Linux Enthusiasts Group (LEG)`: http://www.leg.uct.ac.za/
  .. _`IntelliJ IDEA Ultimate Edition`: http://www.jetbrains.com/idea/

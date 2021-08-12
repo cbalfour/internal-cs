@@ -12,9 +12,8 @@ For assistance please email help@cs.uct.ac.za.
 .. note:: Due to the COVID-19 pandemic we are not currently providing
     walk-in support. Please contact us via email.
 
-.. list-table::
-    widths: 20 20
-    header-rows: 1
+.. list-table:: Systems Administrators
+
     * - Craig Balfour
       - .. image:: http://www.sit.uct.ac.za/sites/default/files/image_tool/images/489/2018/staff/craig_balfour.jpg
             :width: 200px

@@ -1,5 +1,5 @@
-
 .. _sysadmins-label:
+.. _sysadmins:
 
 Systems Administrators
 ======================
@@ -8,9 +8,6 @@ The Computer Science Department's IT infrastructure is managed by the
 in-house Systems Administrators. 
 
 For assistance please email help@cs.uct.ac.za.
-
-.. note:: Due to the COVID-19 pandemic we are not currently providing
-    walk-in support. Please contact us via email.
 
 .. list-table:: Systems Administrators
 

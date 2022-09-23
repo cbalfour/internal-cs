@@ -18,6 +18,7 @@ information.
    email
    printing
    shell
+   database
    software/index
    automarker
    webpage

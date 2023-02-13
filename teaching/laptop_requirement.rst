@@ -10,7 +10,7 @@ The following courses have a requirement that all students have laptops:
 Specification
 =============
 
-.. warning:: We highly recommend that students enrolled in Computer Science courses, particularly at the second, third year, and postgraduate levels, invest in a laptop with a 64-bit AMD64-compatible processor to ensure compatibility with the software tools needed for Computer Science courses. Examples of suitable 64-bit processors include those from Intel, such as the Intel Core i3, i5, and i7, and those from AMD, such as the AMD Ryzen and AMD A-Series.
+.. note:: We highly recommend that students enrolled in Computer Science courses, particularly at the second, third year, and postgraduate levels, invest in a laptop with a 64-bit AMD64-compatible processor to ensure compatibility with the software tools needed for Computer Science courses. Examples of suitable 64-bit processors include those from Intel, such as the Intel Core i3, i5, and i7, and those from AMD, such as the AMD Ryzen and AMD A-Series.
 
 .. warning:: Devices with ARM processors, such as those used in Apple's M1 and M2-based laptops, tablets, smartphones, Chromebooks, and Raspberry Pi may not be compatible with the software used in Computer Science courses and are therefore **not recommended**. X32 based processors such as those used in older or low-end netbooks and laptops are also not suitable. 
 

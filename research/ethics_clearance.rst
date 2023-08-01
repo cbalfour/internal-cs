@@ -71,7 +71,7 @@ Links
 
 - Please email `Shanaaz Smith (shanaaz.smith@uct.ac.za)`_ for the appropriate form to apply for permission to work with staff or students once you have received clearance from the Faculty
 
-.. _Faculty of Science Researcher Ethics Statement:  http://www.science.uct.ac.za/sci/resources
+.. _Faculty of Science Researcher Ethics Statement:  https://science.uct.ac.za/research-ethics
 
 .. _Shanaaz Smith (shanaaz.smith@uct.ac.za): mailto:shanaaz.smith@uct.ac.za
 .. _Ethics Application Submission Site: http://ethics-applications.cs.uct.ac.za/

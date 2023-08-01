@@ -11,11 +11,7 @@ Senior Teaching Assistant
 
 The Senior Teaching Assistant is:
 
-* Jivashi Nagar
-
-   .. image:: http://www.sit.uct.ac.za/sites/default/files/image_tool/images/489/2018/staff/jivashi_nagar.jpg
-      :width: 200px
-      :alt: Jivashi Nagar
+* Farzana Toma
 
 .. _scientific_officers:
 
@@ -27,9 +23,12 @@ The Scientific Officers are:
 
 * Stephen Jamieson
 
-   .. image:: http://www.sit.uct.ac.za/sites/default/files/image_tool/images/489/2018/staff/stephan_jamieson.jpg
+   .. image:: https://sit.uct.ac.za/sites/default/files/styles/square_med/public/contacts/stephan_jamieson.jpg
      :width: 200px
      :alt: Stephan Jamieson
 
 * Lebeko Poulo
 
+   .. image:: https://sit.uct.ac.za/sites/default/files/styles/square_med/public/contacts/lebeko-poulo_tb3.jpg
+     :width: 200px
+     :alt: Lebeko Poulo

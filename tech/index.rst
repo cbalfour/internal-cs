@@ -23,7 +23,9 @@ information.
    automarker
    webpage
    mailing_lists
-   other_services
+   wiki
+   survey
+   source_code_repository
 
 The following additional services are available for use my members of
 the Department:

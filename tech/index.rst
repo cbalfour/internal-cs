@@ -27,12 +27,5 @@ information.
    survey
    source_code_repository
 
-The following additional services are available for use my members of
-the Department:
-
-* Survey platform [surveys.cs.uct.ac.za]
-* Wiki [wiki.cs.uct.ac.za]
-
-
 .. _`Information and Communication Technology Services (ICTS)`: http://www.icts.uct.ac.za/
 .. _`Faculty of Science`: http://www.science.uct.ac.za/
